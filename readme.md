@@ -2,7 +2,7 @@
 
 This project is coded in Django Framework.
 
-Language Used: Python
+Language Used: Python, HTML, CSS
 
 IDE: VS Code
 
